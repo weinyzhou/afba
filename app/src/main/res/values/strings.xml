@@ -1,0 +1,11 @@
+<resources>
+    <string name="romyear">Year:</string>
+    <string name="romsystem">System:</string>
+    <string name="romparent">Parent:</string>
+    <string name="rommanufacturer">Manufacturer:</string>
+    <string name="romfilename">Filename</string>
+    
+    <string name="app_name">aFBA</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
